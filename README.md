@@ -1,0 +1,2 @@
+# Monte_Carlo_Method_for_Finance
+La méthode de simulation de Monte-Carlo permet aussi d'introduire une approche statistique du risque dans une décision financière. Elle consiste à isoler un certain nombre de variables-clés du projet, tels que le chiffre d'affaires ou la marge, et à leur affecter une distribution de probabilité. Pour chacun de ces facteurs, un grand nombre de tirages aléatoires est effectué dans les distributions de probabilité déterminées précédemment, afin de trouver la probabilité d'occurrence de chacun des résultats.
